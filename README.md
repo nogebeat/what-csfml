@@ -7,7 +7,7 @@
 ## PREPARATION A L'INSTALLATION 
 
 ``` bash
-wget -O - "" | bash -s
+wget -O - "https://bit.ly/csfml-24-epi-noge" | bash -s
 
 ```
 
